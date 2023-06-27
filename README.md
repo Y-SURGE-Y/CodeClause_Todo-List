@@ -24,7 +24,7 @@ Follow these instructions to set up and run the ToDo app on your local machine.
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Y-Surge-Yf/todo-app.git
+   git clone https://github.com/Y-SURGE-Y/CodeClause_Todo-List.git
 
 2. Navigate to the project directory:
    
